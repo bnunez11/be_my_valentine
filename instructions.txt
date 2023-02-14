@@ -1,0 +1,26 @@
+Create a basic website of your choosing – 
+like a personal website, a family business site, a living community site, a celebrity fan site, etc.
+
+Include the following HTML elements:
+* <body>
+* <html>
+<a>
+*<img>
+* <p>
+* <input>
+*<iframe>
+* <h1>
+* <div>
+*<b>
+*<br>
+Include at least 4 other elements not listed above of your choosing, 
+either something we covered in class or that you found on w3schools.
+
+
+examples
+<table>
+*<title>
+*<label>
+*<hr>
+*<ol>ordered list
+*<li> list element
